@@ -2,11 +2,11 @@
 # Hi, I'm Patrick 👋 🏊🚴🏃 💻
 I'am Microsoft Developer MVP and Microsoft 365 solutions architect at EXPERTS INSIDE (https://www.expertsinside.com/). 
 
-Patrick builds business solutions in the Microsoft 365 ecosystem for his international customers and he is the main developer of EasyLife 365 (https://www.easylife365.cloud) a new governance solution for Microsoft 365.
+I build business solutions in the Microsoft 365 ecosystem for my international customers and I am the main developer of EasyLife 365 (https://www.easylife365.cloud) a new governance solution for Microsoft 365.
 
-Patrick actively contributes to various projects on GitHub. You can follow him on GitHub (https://github.com/plamber).
+I am actively contributing to various projects on GitHub. 
 
-When Patrick isn't coding or helping customers, you will find him walking his dog or dancing Salsa around the world.
+When I am not coding or helping customers, you will find me walking my dog or dancing Salsa around the world.
 
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/plamber/">LinkedIn</a> 💼
