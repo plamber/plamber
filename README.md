@@ -24,11 +24,11 @@ When I am not coding or helping customers, you will find me walking my dog or da
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=plamber&show_icons=true&include_all_commits=false&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=plamber&hide_border=false" />
 </a> 
-<br />
-<br />
-<a href="https://github.com/plamber/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plamber" alt="Patrick's GitHub Stats" />
-</a>
+
+## 🏆GitHub Trophies
+<p style="witdh:100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=plamber" />
+</p>
 
 <!--
 **plamber/plamber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
