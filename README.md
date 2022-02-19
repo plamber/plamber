@@ -19,8 +19,10 @@ When I am not coding or helping customers, you will find me walking my dog or da
 - 🏊🚴🏃 Sport fact: I run a couple of marathons in the past years. I am planning to shift to Triathlon in the next couple of months.
 
 ## 📈 GitHub Stats
+
 <a href="https://github.com/plamber/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=plamber&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=plamber&show_icons=true&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=plamber&hide_border=false" />
 </a> 
 <br />
 <br />
