@@ -9,7 +9,6 @@ When I am not coding or helping customers, you will find me walking my dog or da
 ## 🌎 Find me around the web 
 - Sharing updates on <a href="https://www.linkedin.com/in/plamber/">LinkedIn</a> 💼
 - Maintaining the <a href="https://github.com/pnp/cli-microsoft365">CLI for Microsoft 365</a>
-- My blog: <a href="https://nubo.eu/" target="_blank">nubo.eu</a>
 
 ## 📈 GitHub Stats
 
