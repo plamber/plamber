@@ -1,13 +1,14 @@
 
 # Hi, I'm Patrick 👋 🏊🚴🏃 💻
-I'am Microsoft Developer MVP and head of software development at EasyLife 365 AG (https://www.easylife365.cloud).
+Hi! I'm the CEO and tech lead at EasyLife 365 AG, a Swiss company where we create awesome SaaS solutions for the Microsoft stack. My journey started as a .NET software developer in 2002, and since 2005, I’ve been all about Microsoft tech. From SharePoint to Microsoft 365, I’ve been focused on making collaboration smoother and better.
 
-I am actively contributing to various projects on GitHub and Microsoft Development Community. 
+Over the years, I've done a mix of consultancy and development, and since 2020, I've zeroed in on building SaaS solutions. I was honored to be a Microsoft MVP for SharePoint and later for Microsoft 365 development for 10 years, and I've had the chance to speak at many conferences around Europe.
 
-When I am not coding or helping customers, you will find me walking my dog or dancing Salsa around the world.
+My skills? I'm all about the Microsoft 365 collaboration stack and customizations. Lately, I’ve been diving into Azure, Microsoft Graph, GitHub, and DevOps, keeping our solutions cutting-edge and effective.
 
-## 🌎 Find me around the web 
-- Maintaining the <a href="https://github.com/pnp/cli-microsoft365">CLI for Microsoft 365</a>
+I studied computer science, which set the stage for my tech journey. At EasyLife 365, our goal is simple: grow as a top SaaS provider and make collaboration easier and more efficient for everyone.
+
+I’m passionate about tech and always looking for ways to make our solutions better. Let's connect if you're into making work life easier with great tech!
 
 ## 📈 GitHub Stats
 
@@ -20,18 +21,3 @@ When I am not coding or helping customers, you will find me walking my dog or da
 <p style="witdh:100%">
   <img src="https://github-profile-trophy.vercel.app/?username=plamber" />
 </p>
-
-<!--
-**plamber/plamber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
